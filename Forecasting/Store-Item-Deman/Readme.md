@@ -7,8 +7,12 @@ This competition is provided as a way to explore different time series technique
 https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
 https://medium.com/analytics-vidhya/time-series-forecasting-using-tbats-model-ce8c429442a9
 
-![]()
+![](https://github.com/FacuJulia/Kaggle-competitions/blob/main/Forecasting/image/Store-Item-Demand.PNG)
 
 ## Conclusion:
+
+Using TBATS Model good result were obtained. TBATS is a forecasting method to model time series data. The main aim of this is to forecast time series with complex seasonal patterns using exponential smoothing.
+
+![](https://github.com/FacuJulia/Kaggle-competitions/blob/main/Forecasting/image/Tbats-Forecasting.PNG)
 
 
