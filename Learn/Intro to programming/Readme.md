@@ -8,7 +8,7 @@
 4. **Conditions and Conditional Statements:** Modify how functions run, depending on the input.
 5. **Intro to Lists:** Organize your data so you can work with it efficiently.
 
-Certification from FreeCodeCamp
+Certification from Kaggle
 
 https://www.kaggle.com/learn/certification/facundojuli/intro-to-programming
 
