@@ -2,8 +2,8 @@
 
 ## Courses completed:
 
-* Intro to Programming
-* Python
+* [Intro to Programming](https://github.com/FacuJulia/Kaggle-competitions/tree/main/Learn/Intro%20to%20programming)
+* [Python](https://github.com/FacuJulia/Kaggle-competitions/tree/main/Learn/Python)
 * Pandas
 * Intro to Machine Learning
 * Intermediate Machine Learning
