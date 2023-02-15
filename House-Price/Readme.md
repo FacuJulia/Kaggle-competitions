@@ -3,7 +3,7 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
-![]()
+![](https://github.com/FacuJulia/Kaggle-competitions/blob/main/House-Price/image/House-Price.PNG)
 
 Dataset has a 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
